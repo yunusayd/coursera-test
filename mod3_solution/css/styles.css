@@ -1,0 +1,13 @@
+.title{
+	margin-top: 0px;
+}
+.row  .cell
+{
+	background-color: silver;
+}
+
+@media (max-width: 768px) {
+	.row p{
+		padding: 0px 40px;
+	}
+}
